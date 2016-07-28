@@ -22,4 +22,4 @@ We struggled to be inclusive in the name and appreciate "Coding for Women" isnâ€
 
 
 
-Also see the F&C Coding for Women meetup group [Sign up at http://www.meetup.com/founderscoders/] (http://www.meetup.com/founderscoders/]: 
+Also see the F&C Coding for Women meetup group [Sign up at http://www.meetup.com/founderscoders/]
